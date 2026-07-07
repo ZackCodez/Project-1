@@ -1,2 +1,2 @@
 # Project-1
-My first project as a Software Engineer. This project is for practice on how to tackle challenges and brainstorm on ideas and create projects for my proffessional skills and tech knowlegde. I look forward to havenas many rrepoitories as possible to vuild my Github and to also build as many projects as possible with the aim of becoming creative and colving challenges at the same time. 
+My first project as a Software Engineer. This project is for setting up the required enviroment to start on my projects. Thi project ascertains that my github is connected to my local terminal where i will be doing my coding and problem solving. I look forward to work on more projects as i continue bulding my coding and programming skills. 
